@@ -1,5 +1,5 @@
 # PassAudit-Password-Security-Toolkit
 An open-source password security toolkit with entropy analysis, pattern detection, breach checking and password generation.
-## GUI Demo
+## 软件界面示例
 
-![GUI Demo](images/gui_demo.png)
+![GUI演示](images/gui_demo.png)
